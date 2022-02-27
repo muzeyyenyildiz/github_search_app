@@ -2,6 +2,7 @@
 #### Requirements
 
 **1.**  Listing the profile information and github repositories of the Github user whose name is entered
+
 **2.**  The following information is expected to be displayed in the user information section.
 
 - Name
@@ -13,6 +14,7 @@
 - Following
 
 **3.** Sorting and listing Github user's public repository by 'created_at' value
+
 **4.** The following information is expected to be displayed in the repository information section.
 
 - Repository name
