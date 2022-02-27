@@ -1,0 +1,42 @@
+.card-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+  margin-bottom: 10px;
+}
+
+.card {
+  width: 50%;
+}
+.card-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px;
+  background-color: rgb(192, 191, 191) !important;
+}
+.card-header h6 {
+  margin: 0;
+  color: white;
+}
+
+.icon-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5px;
+  background-color: white !important;
+  border: none;
+  border-radius: 1px;
+  cursor: pointer;
+}
+.icon-box:hover {
+  background-color: rgb(241, 241, 241) !important;
+}
+.star-icon {
+  color: rgb(216, 214, 214);
+}
+.icon-star-yellow {
+  color: yellow;
+}
